@@ -1,2 +1,2 @@
-# spring-hateos
-Develop a Spring HATEOS Application
+# spring-hateoas
+Develop a Spring HATEOAS Application
