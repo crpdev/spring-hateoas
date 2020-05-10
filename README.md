@@ -1,7 +1,7 @@
 # spring-hateoas
 Develop a simple Spring HATEOAS Application
 
-**_H_**ypermedia **_A_**s **_T_**he **_E_**ngine **_O_**f **_A_**pplication **_S_**tate
+*H*ypermedia *A*s *T*he *E*ngine *O*f *A*pplication *S*tate
 
 - The core idea behind Spring HATEOAS is to send Hypermedia information along with application data in the client responses.
 - Where would this help?
